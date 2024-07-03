@@ -6,7 +6,10 @@
 B.S., Mechanical Engineering | The Cooper Union (_Graduating May 2025_)
 
 ## Projects
-### NFC Platform for Interactions and Product Authentication
+### Vy - 3d printed eyewear company
+I and cofounder Alek Turkmen founderd Vy to create unique, custom, and conforming eyewear. We are developing cutting edge techniques in 3d modeling and learning to use the best 3d printers in the world. We aim to create and capture the bespoke wearables market.
+
+### You2 - NFC Platform for Interactions and Product Authentication
 I designed brooches, necklaces, hats and other wearbles to carry NFCs and allow for different scanning experiences. The NFCs linked to a webapp that allowed for product purchase, the sharing of digital art associated with a brand, and product authentication. Recieved feedback from users and iterated. Raised money and sold product.
 
 ### Ollie and Marie - Noise-responsive Robot for the Young and Autistic
